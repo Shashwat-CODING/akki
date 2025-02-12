@@ -45,7 +45,7 @@ jobs:
               try {
                   console.log('Fetching downloads.json...');
                   const downloads = await httpsGet(
-                      'https://raw.githubusercontent.com/Studyleague01/srpay/main/downloads.json'
+                      'https://raw.githubusercontent.com/Shashwat-CODING/akki/refs/heads/main/downloads.json'
                   );
 
                   console.log('Fetching channel data...');
